@@ -1,9 +1,9 @@
 function Reviews() {
     return (
-        <main className="main">
+        <main className="reviews">
             <div>
             <p className="mainp">Reviews</p>
-            <h1 className="mainh1">821</h1>
+            <h1 className="mainh1">1,281</h1>
             </div>
         </main>
     );

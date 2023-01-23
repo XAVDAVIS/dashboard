@@ -1,4 +1,4 @@
-function Main() {
+function Header() {
     return (
         <main className="main">
             <div>
@@ -13,4 +13,4 @@ function Main() {
     );
 }
 
-export default Main; 
+export default Header; 

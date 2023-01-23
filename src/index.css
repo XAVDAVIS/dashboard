@@ -79,7 +79,7 @@ body {
   overflow: auto;
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
+  justify-content: center;
   align-items:flex-start;
   color: grey;
   font-size: .7rem;
@@ -115,11 +115,21 @@ body {
   font-weight: lighter;
 }
 
+.mainh2 {
+  padding-left: 2rem;
+  font-weight: lighter;
+}
+
 img{
-  /* padding-top: 15px; */
+  padding-top: 15px;
   box-sizing: border-box;
   width: 448px;
   height: 150px;
   object-fit: fill;
-  /* overflow: hidden; */ 
+  overflow: hidden; 
+}
+
+.analysis {
+  box-sizing: border-box;
+
 }
